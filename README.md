@@ -33,5 +33,5 @@ This project demonstrates the use of Amazon S3 (Simple Storage Service) to host 
 
  ## Screenshots
 
-  ![S3 buket creation](Snap2.png)
   ![S3 buket creation](Snap1.png)
+  ![live Portfolio](Snap2.png)
