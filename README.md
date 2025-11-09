@@ -36,5 +36,5 @@ This project demonstrates the use of Amazon S3 (Simple Storage Service) to host 
     <img width="1918" height="911" alt="Snap1" src="https://github.com/user-attachments/assets/e37f31c8-a590-4d55-9020-0650d0f408d0" />
  ## Screenshots
 
-  ![S3 buket creation](Snap1.png)
+  ![S3 buket creation](Snap2.jpg)
   ![live Portfolio](<img width="1918" height="911" alt="Snap1" src="https://github.com/user-attachments/assets/e37f31c8-a590-4d55-9020-0650d0f408d0" />)
