@@ -1,4 +1,5 @@
 Project Overview:
+
 This project demonstrates the use of Amazon S3 (Simple Storage Service) to host a scalable and cost-effective static website. It involves configuring an S3 bucket to serve as a web server for static content, including HTML, CSS, JavaScript, and images.
 
 🛠 Technologies Used
@@ -13,20 +14,19 @@ This project demonstrates the use of Amazon S3 (Simple Storage Service) to host 
 - Public access configuration for S3 bucket
 - Custom index and error documents
 - Bucket policy setup for secure access
-- Optional integration with Route 53 for custom domain
-- Optional use of CloudFront for CDN and HTTPS support
+- Integration with Route 53 for custom domain
+- Use of CloudFront for CDN and HTTPS support
 
 📦 Setup Instructions
   1. Create an S3 bucket with a unique name.
   2. Enable static website hosting in the bucket properties.
-  3. Upload your static files (HTML, CSS, JS, images) to the bucket.
-	@@ -28,14 +25,13 @@ This project demonstrates the use of Amazon S3 (Simple Storage Service) to hos
+  3. Upload your static files (HTML, CSS, JS, images) to the bucket. This project demonstrates the use of Amazon S3 (Simple Storage Service) to hos
   6.  Use Route 53 to map a custom domain.
   7.  Use CloudFront for HTTPS and caching.
 
  🔗 GitHub Repository
-   [AWS VM Deployment Project](https://github.com/prajaktabodade/Portfolio_2025/)
-
+   [Static Website Deployment On AWS Project](https://github.com/prajaktabodade/Portfolio_2025/)
+   
  📄 License
    This project is licensed under the MIT License
    
